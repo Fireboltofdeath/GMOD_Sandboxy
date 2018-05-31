@@ -1,2 +1,2 @@
 # GMOD_Sandboxer
-It's just random junk I come up with for garry's mod.
+I post junk here that I made specifically for Garry's Mod, nothing special and nothing cool.
