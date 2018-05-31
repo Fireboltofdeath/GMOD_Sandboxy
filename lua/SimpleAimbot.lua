@@ -33,7 +33,7 @@ local function GetTarget(dotRange)
 	end
 end
 
-hook.Add("CreateMove", function(cmd) 
+hook.Add("CreateMove", "Somebody once told me the world was gonna roll me, I ain't the sharpest tool in the shed. She was lookin' kinda dumb with her finger and her thumb in the shape of an L on her forehead", function(cmd) 
 	local Target = GetTarget();
 	
 	if ( AimbotEnabled:GetInt() > 0 and cmd:KeyDown( IN_USE ) ) then 
